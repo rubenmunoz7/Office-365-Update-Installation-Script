@@ -12,7 +12,7 @@
 ---
 
 <p align="center"> 
-Uses ODT (office deployment tool) to removes any existing Office installations and installs the latest  with specific settings e.g: update channel, language, latest installation, etc).  
+Uses ODT (office deployment tool) to removes any existing Office installations and installs the latest  with specific settings such as: update channel, language, latest installation, etc).  
 <br> 
 </p>
 
