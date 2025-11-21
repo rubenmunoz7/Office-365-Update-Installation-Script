@@ -53,7 +53,7 @@ To start the script:
 ---
 
 ## ⛏️ Built Using <a name = "built_using"></a>
-- [PowerShell](https://learn.microsoft.com/en-us/powershell/) – Automation scripting=
+- [PowerShell](https://learn.microsoft.com/en-us/powershell/) – Automation scripting
 - [Microsoft](https://learn.microsoft.com/en-us/microsoft-365-apps/deploy/office-deployment-tool-configuration-options) - Microsoft 365 apps configuration
 
 ---
