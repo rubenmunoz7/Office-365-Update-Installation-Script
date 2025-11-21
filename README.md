@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://imgur.com/zneAXAu.png" alt="Project logo"></a>
+ <img width=200px height=200px src="https://i.imgur.com/8JVgkbR.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Automate the download and installation of Microsoft Office 365</h3>
