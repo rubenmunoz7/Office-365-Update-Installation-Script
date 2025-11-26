@@ -49,7 +49,7 @@ It then runs setup.exe /configure config.xml to remove the old versions and inst
 To start the script:
 1. Go to the target machine, Automation -> Script -> Office365 Update Script we then enter the Company Name we are updating the services for into the parameter box. 
 2. Afte running the script, it will download ODT if it isn't already installed, generate the config.xml for that company, remove existing Office installations, and install/update 64-bit Microsoft 365 apps.
-3. After the script is completed, you can verify the installation through C:\ProgramData\NinjaTemp\O365\**CompanyName** , the config.xml file will include the <AppSettings> company tag.
+3. After the script is completed, you can verify the installation through C:\ProgramData\NinjaTemp\O365\\**CompanyName** , the config.xml file will include the <AppSettings> company tag.
 ---
 
 ## ⛏️ Built Using <a name = "built_using"></a>
