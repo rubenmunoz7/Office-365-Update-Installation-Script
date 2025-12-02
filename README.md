@@ -39,7 +39,9 @@ It then runs setup.exe /configure config.xml to remove the old versions and inst
 - CompanyName (string required), the logical name for the client which is used for the following:
     - Create a company specific ODT working folder
     - Tag the Office config with the CompanyName in parameters and the script will recognize it in the config
-    - 
+
+**Additions**
+- A script variable was added specifically for NinjaOne, so that there is an option to remove click-to-run and MSI Office. If it is not selected in the drop down menu in NinjaOne, then the variable lines aren't included and it won't remove existing MSI Office, just installs/updates. 
 
 
 ---
