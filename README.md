@@ -26,7 +26,7 @@ Uses ODT (Office Deployment Tool) to removes any existing Office installations a
 ---
 
 ## 📖 About <a name = "about"></a>
-This powershell script was created for, but not limited to NinjaOne, to use for endpoints. It accepts a CompanyName parameter that is prompted when the script is about to be ran. It ises that parameter to create a sompany-specific folder under the directory C:\ProgramData\NinjaTemp\O365\\**CompanyName**.
+This powershell script was created for, but not limited to NinjaOne, to use for endpoints. It accepts a CompanyName parameter that is prompted when the script is about to be ran. It uses that parameter to create a sompany-specific folder under the directory C:\ProgramData\NinjaTemp\O365\\**CompanyName**.
 It then downloads the official Office Deployment Tool from Microsoft with: 
 - A config.xml file with the following:
     - Microsoft 365 Apps for Enterprise
